@@ -33,8 +33,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| **WeCode - Collaboration Platform for Coders And Interview Tool** | A platform where coders can collaborate and can hold virtual interviews. | MERN Stack, DaisyUi, Tailwindcss, Clerk, Monaco-editor, Stream, Inngest, Sevalla |
 | **WeRent - Car Rental Platform** | A platform where users rent cars & owners manage listings. | MERN Stack, JWT, Tailwindcss, ImageKit.io |
-| **Legacy.ai - Code Reviewer* | Reviews code using Google Gemini flash 2.0 | React • Node • Google Gemini Api |
 | **Portfolio 3D Web Experience** *(Coming Soon) | Interactive portfolio with Three.js animations. | React • Vite • Three.js |
 
 **🔗 Check repositories below ↓**
