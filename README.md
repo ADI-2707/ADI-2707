@@ -12,7 +12,7 @@
 - 🧠 Currently leveling up in **Advanced React & Backend Architecture**
 - 🎨 I love crafting **smooth UI interactions & animations**
 - 🌍 Exploring **3D Web Experiences** using **Three.js**
-- 💬 Ask me about **MERN, python, REST APIs, UI/UX & System Design**
+- 💬 Ask me about **MERN, Python, REST APIs, UI/UX & System Design**
 
 ---
 
