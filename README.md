@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aditya 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer</b> | JavaScript • Django • React • Node.js • Three.js  
+  <b>Full-Stack Developer</b> | JavaScript • Python • React • Node.js • Three.js  
   <br>
   Turning ideas into interactive, scalable, production-grade products 🚀
 </p>
