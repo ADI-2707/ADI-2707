@@ -20,19 +20,24 @@
 ### 🧰 Core Tech Stack
 
 **Languages**  
-JavaScript · TypeScript · Python
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD600?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Frontend**  
-React · Vite · Three.js · Vue.js
+![React](https://img.shields.io/badge/React-61DBFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 
-**Backend & APIs**  
-Django · Node.js · Express · Next.js
-
-**Databases**  
-PostgreSQL · MongoDB · SQL
+**Backend & Databases**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+![Node.js](https://img.shields.io/badge/Node.js-4CAF50?style=flat&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 
 **Infra & Tools**  
-Redis · RabbitMQ · GitHub · Postman
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq)
 
 ---
 
