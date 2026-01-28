@@ -8,11 +8,12 @@
 
 ---
 
-### 🔥 About Me
-- 🧠 Currently leveling up in **Advanced React & Backend Architecture**
-- 🎨 I love crafting **smooth UI interactions & animations**
-- 🌍 Exploring **3D Web Experiences** using **Three.js**
-- 💬 Ask me about **MERN, Python, REST APIs, UI/UX & System Design**
+## 🚀 What I Build
+
+- Scalable backend systems with **FastAPI & Django** (auth, rate-limiting, async APIs)
+- Interactive frontends using **React + Vite** with smooth animations
+- Data-driven dashboards and analytics pipelines
+- Real-world projects integrating **IoT, APIs, and system design**
 
 ---
 
