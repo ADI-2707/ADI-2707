@@ -6,16 +6,6 @@
   <sub>Turning ideas into interactive, scalable, production-grade products 🚀</sub>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/devadi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="mailto:aditya21singh2707@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" alt="Email">
-  </a>
-</p>
-
 <br>
 
 ## 🚀 About Me
