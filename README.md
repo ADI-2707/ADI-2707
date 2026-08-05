@@ -8,17 +8,17 @@
 
 <br>
 
-## 🚀 About Me
+##  About Me
 
-- 🔭 I build **scalable backend systems** with FastAPI, Django, and Node.js — auth, rate-limiting, async APIs
-- 🎨 I craft **interactive frontends** with React + Vite, focused on smooth UX and clean design
-- 📊 I work on **data-driven dashboards** and analytics pipelines
-- 🌐 I like tying it all together with **real-world systems** — IoT, third-party APIs, and thoughtful system design
-- 🌱 Currently exploring **Three.js** and 3D web experiences
+-  I build **scalable backend systems** with FastAPI, Django, and Node.js — auth, rate-limiting, async APIs
+-  I craft **interactive frontends** with React + Vite, focused on smooth UX and clean design
+-  I work on **data-driven dashboards** and analytics pipelines
+-  I like tying it all together with **real-world systems** — IoT, third-party APIs, and thoughtful system design
+-  Currently exploring **Three.js** and 3D web experiences
 
 <br>
 
-## 🧰 Core Tech Stack
+##  Core Tech Stack
 
 **Languages**
 <p>
@@ -60,7 +60,7 @@
 
 <br>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -73,7 +73,7 @@
 
 <br>
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ADI-2707&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -99,5 +99,5 @@
 </p>
 
 <p align="center">
-  <sub>✨ The journey is long. The grind is real. The progress is visible. ✨</sub>
+  <sub> The journey is long. The grind is real. The progress is visible. </sub>
 </p>
