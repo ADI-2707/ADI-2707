@@ -14,7 +14,7 @@
 -  I craft **interactive frontends** with React + Vite, focused on smooth UX and clean design
 -  I work on **data-driven dashboards** and analytics pipelines
 -  I like tying it all together with **real-world systems** — IoT, third-party APIs, and thoughtful system design
--  Currently exploring **Three.js** and 3D web experiences
+-  Currently exploring **AI** and **ML** systems and builds
 
 <br>
 
