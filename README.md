@@ -1,21 +1,20 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1200&pause=500&multiline=true&width=560&height=80&lines=Aditya+Singh;Full-Stack+Developer+%7C+Backend+Systems;AI%2FML+%7C+Industrial+Automation)](https://github.com/ADI-2707)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1200&pause=500&multiline=true&center=true&vCenter=true&width=750&height=70&lines=Aditya+Singh;Full-Stack+Developer+%7C+Backend+Systems+%7C+AI%2FML+%7C+Industrial+Automation)](https://github.com/ADI-2707)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devadi/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:aditya21singh2707@gmail.com)
 
-<br>
 
-##  About Me
+<h2 align="center">About Me</h2>
 
- 🔭 Focus: **scalable backends** (FastAPI, NestJS, Django) and **interactive frontends** (React + Vite)
- 🤖 Currently exploring **AI/ML systems**, from-scratch language models and NLP
- 🏭 Interested in **industrial automation**, IoT and real-world systems
- 💻 Currently building [Atlas](https://github.com/ADI-2707/Atlas) and [Stockyard](https://github.com/ADI-2707/Stockyard)
- 💬 Open to chat about backend architecture, ML or collaboration. Reach me on [LinkedIn](https://www.linkedin.com/in/devadi/)
+<p align="center">
+  🔭 Focus: <b>scalable backends</b> (FastAPI, NestJS, Django) and <b>interactive frontends</b> (React + Vite)<br>
+  🤖 Currently exploring <b>AI/ML systems</b>, from-scratch language models and NLP<br>
+  🏭 Interested in <b>industrial automation</b>, IoT and real-world systems<br>
+  💻 Currently building <a href="https://github.com/ADI-2707/Atlas">Atlas</a> and <a href="https://github.com/ADI-2707/Stockyard">Stockyard</a><br>
+  💬 Open to chat about backend architecture, ML or collaboration. Reach me on <a href="https://www.linkedin.com/in/devadi/">LinkedIn</a>
+</p>
 
----
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ADI-2707&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -23,8 +22,9 @@
 </p>
 
 <br>
-##  Core Tech Stack
 
+
+##  Core Tech Stack
 **Languages**
 <p>
   <img src="https://img.shields.io/badge/JavaScript-FFD600?style=flat&logo=javascript&logoColor=black">
@@ -64,7 +64,11 @@
 </p>
 <br>
 
-### 🖥️ Projects & Products
+
+
+
+## Projects & Products
+
 
 #### Full-Stack & Systems
 
@@ -83,7 +87,7 @@
 | [MiniLM](https://github.com/ADI-2707/MiniLM) | ![Stars](https://img.shields.io/github/stars/ADI-2707/MiniLM?style=flat-square&labelColor=black) | ![](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) |
 | [Legacy.Ai](https://github.com/ADI-2707/Legacy.Ai) | ![Stars](https://img.shields.io/github/stars/ADI-2707/Legacy.Ai?style=flat-square&labelColor=black) | ![](https://img.shields.io/badge/Gemini_API-black?style=flat-square&logo=googlegemini) ![](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) |
 
----
+
 
 🔗 More on my [repositories page](https://github.com/ADI-2707?tab=repositories)
 
