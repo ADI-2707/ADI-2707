@@ -1,23 +1,28 @@
-<h1 align="center">Hi, I'm Aditya 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Developer · Backend Architecture · Modern Frontends · Systems Thinking</b>
-  <br>
-  <sub>Turning ideas into interactive, scalable, production-grade products 🚀</sub>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1200&pause=500&multiline=true&width=560&height=80&lines=Aditya+Singh;Full-Stack+Developer+%7C+Backend+Systems;AI%2FML+%7C+Industrial+Automation)](https://github.com/ADI-2707)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devadi/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:aditya21singh2707@gmail.com)
 
 <br>
 
 ##  About Me
 
--  I build **scalable backend systems** with FastAPI, Django, and Node.js — auth, rate-limiting, async APIs
--  I craft **interactive frontends** with React + Vite, focused on smooth UX and clean design
--  I work on **data-driven dashboards** and analytics pipelines
--  I like tying it all together with **real-world systems** — IoT, third-party APIs, and thoughtful system design
--  Currently exploring **AI** and **ML** systems and builds
+ 🔭 Focus: **scalable backends** (FastAPI, NestJS, Django) and **interactive frontends** (React + Vite)
+ 🤖 Currently exploring **AI/ML systems**, from-scratch language models and NLP
+ 🏭 Interested in **industrial automation**, IoT and real-world systems
+ 💻 Currently building [Atlas](https://github.com/ADI-2707/Atlas) and [Stockyard](https://github.com/ADI-2707/Stockyard)
+ 💬 Open to chat about backend architecture, ML or collaboration. Reach me on [LinkedIn](https://www.linkedin.com/in/devadi/)
+
+---
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ADI-2707&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADI-2707&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+</p>
 
 <br>
-
 ##  Core Tech Stack
 
 **Languages**
@@ -57,17 +62,28 @@
   <img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 </p>
-
 <br>
 
-##  Featured Projects
+### 🖥️ Projects & Products
 
-| Project | Description | Tech |
-|---|---|---|
-| **[Atlas](https://github.com/ADI-2707/Atlas)** | A modular, event-driven **Enterprise Application Framework** — build scalable enterprise software (inventory, CRM, HR, reporting) as independently deployable plugins on a shared core platform (auth, users, events, config, audit). | TypeScript, React, Vite, NestJS, Prisma, PostgreSQL, Redis, BullMQ, Docker (pnpm monorepo) |
-| **[Stockyard](https://github.com/ADI-2707/Stockyard)** | An offline-first **desktop inventory tracker** for panel and body manufacturing — server-side filtered/paginated SQLite storage, indexed lookups, BOM coverage checks, and a background alert engine for low-stock monitoring, packaged as a native Windows app. | Electron, React, TypeScript, Zustand, Drizzle ORM, SQLite |
-| **[QResolve](https://github.com/ADI-2707/QResolve)** | An end-to-end **ML-powered support ticket triage API** that predicts ticket priority from text using NLP, with full production scaffolding — data validation, model training/serving, structured logging, Docker, and a 23-test Pytest suite. | Python, FastAPI, scikit-learn, SQLAlchemy, Docker, Pytest |
-| **[WeRent](https://github.com/ADI-2707/WeRent)** | A full-stack car rental platform connecting owners and renters — browse, book, and manage listings in a seamless peer-to-peer flow. | MERN Stack, JWT, Tailwind CSS, ImageKit.io |
+#### Full-Stack & Systems
+
+| Title | Stars | Tech |
+| ----- | ----- | ---- |
+| [Atlas](https://github.com/ADI-2707/Atlas) | ![Stars](https://img.shields.io/github/stars/ADI-2707/Atlas?style=flat-square&labelColor=black) | ![](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) ![](https://img.shields.io/badge/NestJS-black?style=flat-square&logo=nestjs) ![](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) ![](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) |
+| [Stockyard](https://github.com/ADI-2707/Stockyard) | ![Stars](https://img.shields.io/github/stars/ADI-2707/Stockyard?style=flat-square&labelColor=black) | ![](https://img.shields.io/badge/Electron-black?style=flat-square&logo=electron) ![](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![](https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite) |
+| [WeCode](https://github.com/ADI-2707/WeCode) | ![Stars](https://img.shields.io/github/stars/ADI-2707/WeCode?style=flat-square&labelColor=black) | ![](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) ![](https://img.shields.io/badge/React-black?style=flat-square&logo=react) |
+| [WeRent](https://github.com/ADI-2707/WeRent) | ![Stars](https://img.shields.io/github/stars/ADI-2707/WeRent?style=flat-square&labelColor=black) | ![](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb) ![](https://img.shields.io/badge/Express-black?style=flat-square&logo=express) ![](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs) |
+
+#### Machine Learning
+
+| Title | Stars | Tech |
+| ----- | ----- | ---- |
+| [QResolve](https://github.com/ADI-2707/QResolve) | ![Stars](https://img.shields.io/github/stars/ADI-2707/QResolve?style=flat-square&labelColor=black) | ![](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi) ![](https://img.shields.io/badge/scikit--learn-black?style=flat-square&logo=scikitlearn) ![](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) |
+| [MiniLM](https://github.com/ADI-2707/MiniLM) | ![Stars](https://img.shields.io/github/stars/ADI-2707/MiniLM?style=flat-square&labelColor=black) | ![](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) |
+| [Legacy.Ai](https://github.com/ADI-2707/Legacy.Ai) | ![Stars](https://img.shields.io/github/stars/ADI-2707/Legacy.Ai?style=flat-square&labelColor=black) | ![](https://img.shields.io/badge/Gemini_API-black?style=flat-square&logo=googlegemini) ![](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) |
+
+---
 
 🔗 More on my [repositories page](https://github.com/ADI-2707?tab=repositories)
 
@@ -75,10 +91,6 @@
 
 ##  GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ADI-2707&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADI-2707&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADI-2707&theme=tokyonight&hide_border=true"/>
@@ -97,6 +109,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white">
   </a>
 </p>
+</div>
 
 <p align="center">
   <sub> The journey is long. The grind is real. The progress is visible. </sub>
